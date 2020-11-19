@@ -1,0 +1,36 @@
+.main{
+    background-color:#00b894;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+
+}
+
+h1,
+h2,
+h4{
+    color: black;
+}
+
+p {
+    text-align: justify;
+    color:black;
+}
+
+.box{
+    box-sizing: border-box;
+    padding: 30px;
+    background-color:#fdcb6e;
+    border: 5px solid #d63031;
+    width: 50%;
+}
+
+.two,
+.three{
+    display:inline-block;
+    width: 48%;
+}
+
+.three{
+    text-align: right;
+}
